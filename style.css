@@ -81,6 +81,10 @@
             height: 15px;
           }
         }
+        .rating-text {
+          font-weight: 700;
+          color: var(--Very-Dark-Magenta);
+        }
       }
     }
   }
@@ -131,11 +135,10 @@
         }
       }
       .box-content {
-        color: var(--White);
         letter-spacing: 1.5px;
         line-height: 1.3;
         font-weight: 400;
-        /* font-size: 15px; */
+        color: var(--Light-Grayish-Magenta);
       }
     }
   }
